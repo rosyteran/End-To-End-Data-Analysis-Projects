@@ -17,7 +17,7 @@ Python 3.6 or higher
 A Jupyter Notebook environment
 Once you have installed the necessary software, you can clone the repository to your computer using the following command:
 
-git clone https://github.com/rosyteran/data-analysis-projects.git
+git clone https://github.com/rosyteran/End-To-End-Data-Analysis-Projects.git
 
 This will create a directory called data-analysis-projects in your current directory.
 
